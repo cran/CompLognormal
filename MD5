@@ -1,9 +1,8 @@
-16e046339d6c79a3e45f3b3bdc6cf437 *DESCRIPTION
+b6769bd25abbe045bc3b3398a7f75d00 *DESCRIPTION
 df390c53434517b304ac5db487184641 *NAMESPACE
-5f8bcc7fe13ba8e5b194b0014c53424a *R/CompLognormal.R
-827682d6fab2efa7ea9c60d1065be0a3 *man/CompLognormal-package.Rd
-e8370ae62a03ad2449312d73a0ff8e25 *man/dcomplnorm.Rd
-ee4105e2b4a86d34adac9738330b7666 *man/nlogl.complnorm.Rd
-cb684b4436d2f27cd9077015002fd963 *man/pcomplnorm.Rd
-ec32e194bf08f99635b5b578470d182a *man/qcomplnorm.Rd
-c2af8ed450e625e4af7c2537135e49e4 *man/rcomplnorm.Rd
+02fab3cf37749db47fac1dc4159ee1b9 *R/CompLognormal.R
+83eeb7422403608153ed980107a98311 *man/CompLognormal-package.Rd
+cfa51644ba2f233ad313f4381f1dbe41 *man/dcomplnorm.Rd
+9fc4b85e37f59ca12cedd7804d55a458 *man/pcomplnorm.Rd
+b59e8711b19290a83ad04701167dadd9 *man/qcomplnorm.Rd
+339c66acb2ff88a192507f9be5ce420a *man/rcomplnorm.Rd
