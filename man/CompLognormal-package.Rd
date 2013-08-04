@@ -8,11 +8,11 @@ Computes functions for actuarial use
 \description{Computes the probability density function, cumulative distribution function, quantile function, random numbers of any composite model based on the lognormal distribution}
 \details{
 \tabular{ll}{
-Package: \tab ActuDistns\cr
+Package: \tab CompLognormal\cr
 Type: \tab Package\cr
-Version: \tab 2.0\cr
-Date: \tab 2012-10-4\cr
-License: \tab What license is it under?\cr
+Version: \tab 3.0\cr
+Date: \tab 2013-8-4\cr
+License: \tab GPL(>=2)
 }
 probability density function, cumulative distribution function, quantile function, random numbers
 }
